@@ -32,3 +32,8 @@ It does not contain:
 - Trained model files or internal documentation
 
 The ScoutEdge team received the **Gold Award at KPIT Sparkle 2026**.
+
+
+---
+
+<sub>Made by [tanaytejush](https://github.com/tanaytejush)</sub>
